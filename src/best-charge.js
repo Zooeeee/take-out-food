@@ -1,5 +1,3 @@
-// let inputs = ["ITEM0001 x 1", "ITEM0013 x 2", "ITEM0022 x 1"];
-  
 function bestCharge(selectedItems) {
   //将 a*b 转化为 b 个a；
   function trans(selectedItems){
